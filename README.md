@@ -14,8 +14,7 @@ Jednoduchý a přehledný design
 
 HTML, CSS, JavaScript
 
-REST API (např. REST Countries API
-)
+REST API ( REST Countries API )
 
 🎯 Účel:
 
